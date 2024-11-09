@@ -61,18 +61,6 @@ Actualizar una tarea: Haz clic en "Editar" junto a cualquier tarea para actualiz
 Eliminar una tarea: Haz clic en "Eliminar" para borrar una tarea, el sistema pedira confirmacion para la eliminacion de tareas.
 
 
-Estructura del Proyecto
-
-La estructura del proyecto es la siguiente:
-
-
-ExamenFinal/
-├── index.php          # Página principal que muestra y agrega tareas
-├── update.php         # Página para actualizar una tarea
-├── delete.php         # Página para eliminar una tarea
-├── style.css          # Archivo de estilos CSS
-├── script.js          # Archivo de JavaScript para interactividad (si es necesario)
-└── db.php             # Conexión a la base de datos
 
 Tecnologías Utilizadas
 PHP: Para la lógica del servidor.
